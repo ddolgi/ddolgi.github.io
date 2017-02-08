@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \[Link\]How to Write a Spelling Corrector
+title: How to Write a Spelling Corrector(Link)
 ---
 
 맨 마지막 언어별 코드 길이가 흥미롭다.
